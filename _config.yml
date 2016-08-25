@@ -1,3 +1,4 @@
+layout_spectrum: 0.20830369228497148
 typography_spectrum: 0.7703415451105684
 color:
   brandStrength: 0.28688851138576865
@@ -10,11 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.20830369228497148
-name: JIM OWEN
-navigation:
-  - name: FILMS
-    id: 768df0f8-d724-418b-b0a7-fd1d98ef5f81
-    type: content
-title: jim owen
-description: "writer \_| \_director"
+name: jim owen
