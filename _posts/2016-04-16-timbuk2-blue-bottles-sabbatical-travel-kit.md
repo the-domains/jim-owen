@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-25T19:01:40.869Z'
+datePublished: '2016-08-25T19:03:24.999Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee'
-hasPage: false
+hasPage: true
 keywords:
   - sabbatical
   - timbuk2
@@ -17,7 +16,7 @@ keywords:
   - craft
 related: []
 author: []
-dateModified: '2016-08-25T19:01:40.041Z'
+dateModified: '2016-08-25T19:03:24.515Z'
 title: Timbuk2 + Blue Bottle's Sabbatical Travel Kit
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: timbuk2-blue-bottles-sabbatical-travel-kit/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
