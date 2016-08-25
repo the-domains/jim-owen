@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/114989866'
 title: Huawei - The Spinning Wheel
-datePublished: '2016-08-25T19:37:05.727Z'
-dateModified: '2016-08-25T19:37:05.601Z'
+datePublished: '2016-08-25T19:37:05.758Z'
+dateModified: '2016-08-25T19:37:05.606Z'
 via: {}
 sourcePath: _posts/2016-08-25-huawei-the-spinning-wheel.md
 starred: false
