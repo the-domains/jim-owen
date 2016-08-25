@@ -43,11 +43,11 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/124945210'
 title: Sketchland
-datePublished: '2016-08-25T19:36:09.563Z'
-dateModified: '2016-08-25T19:33:32.908Z'
+datePublished: '2016-08-25T19:37:06.154Z'
+dateModified: '2016-08-25T19:37:05.840Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-sketchland.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
