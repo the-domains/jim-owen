@@ -45,11 +45,11 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/142510938'
 title: Denplan - Do It For Your Selfie - 60"
-datePublished: '2016-08-25T19:36:09.570Z'
-dateModified: '2016-08-25T19:31:17.212Z'
+datePublished: '2016-08-25T19:37:05.722Z'
+dateModified: '2016-08-25T19:37:05.606Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-denplan-do-it-for-your-selfie-60.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
