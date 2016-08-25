@@ -6,9 +6,13 @@ color:
   saturation: 0.07480991119518876
   rhythmicContrast: 0.8020464209839702
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: jim owen
+navigation:
+  - name: JIM 1
+    id: 768df0f8-d724-418b-b0a7-fd1d98ef5f81
+    type: content
