@@ -44,11 +44,11 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/135462533'
 title: 'The Wankers #2 - Jamie & Malaria'
-datePublished: '2016-08-25T19:36:09.575Z'
-dateModified: '2016-08-25T19:33:01.701Z'
+datePublished: '2016-08-25T19:37:06.131Z'
+dateModified: '2016-08-25T19:37:06.020Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-the-wankers-2-jamie-and-malaria.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
